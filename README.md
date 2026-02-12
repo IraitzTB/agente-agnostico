@@ -1,2 +1,3 @@
 # agente-agnostico
-Agente ejemplo
+
+Agente ejemplo que usa Agno y uv.
